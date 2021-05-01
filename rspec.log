@@ -54,17 +54,17 @@ Failures:
      [31mFailure/Error: visit root_path[0m
      [31m[0m
      [31mNameError:[0m
-     [31m  undefined local variable or method `root_path' for #<RSpec::ExampleGroups::Nested::RootPath::Nested:0x00000000044b5f60>[0m
+     [31m  undefined local variable or method `root_path' for #<RSpec::ExampleGroups::Nested::RootPath::Nested:0x00000000079cea30>[0m
      [36m# ./spec/system/books_spec.rb:7:in `block (3 levels) in <main>'[0m
 
   2) 投稿のテスト トップ画面(root_path)のテスト 表示の確認 root_pathが"/"であるか
      [31mFailure/Error: visit root_path[0m
      [31m[0m
      [31mNameError:[0m
-     [31m  undefined local variable or method `root_path' for #<RSpec::ExampleGroups::Nested::RootPath::Nested:0x0000000003bbbec8>[0m
+     [31m  undefined local variable or method `root_path' for #<RSpec::ExampleGroups::Nested::RootPath::Nested:0x00000000079e45d8>[0m
      [36m# ./spec/system/books_spec.rb:7:in `block (3 levels) in <main>'[0m
 
-Finished in 4.08 seconds (files took 1.06 seconds to load)
+Finished in 1.49 seconds (files took 1.06 seconds to load)
 [31m28 examples, 2 failures[0m
 
 Failed examples:
